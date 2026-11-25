@@ -60,8 +60,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    mostrar_reporte(inventario)
-
-
-if __name__ == "__main__":
-    main()
